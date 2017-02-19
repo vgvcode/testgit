@@ -1,4 +1,9 @@
 This is a sample project to test git's features
 Made changes from mac mini
 Made changes from mac pro
+<<<<<<< Updated upstream
 -- Parallel change in mac pro
+||||||| merged common ancestors
+=======
+-- Parallel change from mac mini
+>>>>>>> Stashed changes
